@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "8.8.8.8 saucelabs.com" >> /etc/hosts
+echo "74.125.239.112 saucelabs.com" >> /etc/hosts
